@@ -1,4 +1,4 @@
-export const colors = [
+export const graphColors = [
   "#e6194B",
   "#4363d8",
   "#f58231",
@@ -8,3 +8,5 @@ export const colors = [
   "#ffe119",
   "#dcbeff"
 ];
+
+export default graphColors;
